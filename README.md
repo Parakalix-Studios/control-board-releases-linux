@@ -4,7 +4,7 @@ Linux builds and signed updates for **Control Board**, a native desktop app
 that watches a Proxmox homelab: hosts, guests, graphs, a network map,
 Kubernetes, web checks, certificates, and alerts. The source is private; this
 repository holds only builds. Windows builds are in
-[control-board-releases](https://github.com/Parakalix/control-board-releases).
+[control-board-releases](https://github.com/Parakalix-Studios/control-board-releases).
 
 **Status: private alpha.** Proprietary software: by installing it you accept
 the [licence](LICENSE).
