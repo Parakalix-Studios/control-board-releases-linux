@@ -7,7 +7,7 @@ repository holds only builds. Windows builds are in
 [control-board-releases](https://github.com/Parakalix-Studios/control-board-releases).
 
 **Status: private alpha.** Proprietary software: by installing it you accept
-the [licence](LICENSE).
+the [license](LICENSE).
 
 ## What you need
 
